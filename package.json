@@ -1,0 +1,25 @@
+{
+  "name": "dio.me-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andsoalves/andsoalves-Dio.me-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andsoalves/andsoalves-Dio.me-TypeScript/issues"
+  },
+  "homepage": "https://github.com/andsoalves/andsoalves-Dio.me-TypeScript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.3"
+  }
+}
